@@ -73,4 +73,7 @@ The lab system handbook and instructions for lab 0 can be found here:
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
 
+## 03 - Classic Classifiers
+
+* [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
 
