@@ -98,3 +98,8 @@ The lab system handbook and instructions for lab 0 can be found here:
 ## 09 - Generative Models
 
 * [pdf slides](/handouts/handout-09-generative-models.pdf)
+
+## 10 - Attention Mechanism and Transformer Model
+
+* [pdf slides](/handouts/handout-10-transformers.pdf)
+
